@@ -3,7 +3,9 @@
 ## About me:
 
 <p>
-  I am a Game Developer and creating cool games since 2019. I find the same joy in programming and solving problems as I do in playing games so the whole journey is a story to tell for me. I also create tools and templates to accelerate game development. I have started learning software development in highschool with form applications but I was always biased to game development and I was developing games with text boxes and buttons. Discovering Unity Engine is one of my breakpoints. Besides game development, I have created (e-commerce) websites and I'm very interested with backend development. I never set a limit for myself so I have always space to grow and I don't afraid exploring and learning new fields.
+  I am a Game Developer and creating cool games since 2019. I find the same joy in programming and solving problems as I do in playing games so the whole journey is a story to tell for me. I also create tools and templates to accelerate game development. I have started learning software development in highschool with form applications but I was always biased to game development and I was developing games with text boxes and buttons so discovering Unity Engine is one of my breakpoints. 
+  
+  Besides game development, I have created (e-commerce) websites and I'm very interested with backend development. I never set a limit for myself so I have always space to grow and I don't afraid exploring and learning new fields. There's nothing I can't do—only things I haven't learned yet.
 </p>
 
 ## 💻 Tech Stack:
