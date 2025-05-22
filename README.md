@@ -29,7 +29,7 @@
 ## 🚀 Current Focus:
 <ul>
 <li> 🌐 I'm currently learning backend development, that would help me in both server side programming in game development and open new areas with app and web development </li>
-<li> 🎮 I'm thinking about developing an indie game. I have rough design but nothing in progress yet. </li>
+<li> 🎮 I'm thinking about developing an indie game. I have a rough design but nothing in progress yet. </li>
 <li> 📈 Constantly updating myself with current tech. </li>
 </ul>
 
