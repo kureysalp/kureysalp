@@ -15,6 +15,7 @@
 
 ### 🎮 Unity
 
+[Unity Generic Event Bus](https://github.com/kureysalp/Unity-Event-Bus) </br>
 [Cinemachine Axis Follow Lock](https://github.com/kureysalp/Lock-Cinemachine-Follow) </br>
 [Fluid Shader](https://github.com/kureysalp/Fluid-Shader) </br>
 [Editor Prefab Instancer](https://github.com/kureysalp/unity-prefab-instancer) </br>
