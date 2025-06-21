@@ -13,13 +13,16 @@
 
 ## 🗃️ Last Projects
 
-### 🎮 Unity
+### ⬡ Unity
 
 [Unity Generic Event Bus](https://github.com/kureysalp/Unity-Event-Bus) </br>
 [Cinemachine Axis Follow Lock](https://github.com/kureysalp/Lock-Cinemachine-Follow) </br>
 [Fluid Shader](https://github.com/kureysalp/Fluid-Shader) </br>
 [Editor Prefab Instancer](https://github.com/kureysalp/unity-prefab-instancer) </br>
 [Mobile Device Safe Area Detection](https://github.com/kureysalp/unity-safe-area-detection) </br>
+
+### 🎮 Games
+[Zombie Fever](https://play.google.com/store/apps/details?id=com.GPlayStudio.ZombieSniper&hl=en) </br>
 
 ### 🌐 Web
 [Airport Transfer Booking](https://github.com/kureysalp/Airport-Transfer-Booking)
