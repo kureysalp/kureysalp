@@ -28,9 +28,6 @@
 ### 🌐 Web
 [Airport Transfer Booking](https://github.com/kureysalp/Airport-Transfer-Booking)
 
-## 📊 GitHub Stats:
-![kureysalp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kureysalp&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-
 ## 🚀 Current Focus:
 <ul>
 <li> 🌐 I'm currently learning backend development, that would help me in both server side programming in game development and open new areas with app and web development </li>
