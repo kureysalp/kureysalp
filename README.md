@@ -36,7 +36,6 @@
 <ul>
 <li> I'm currently learning backend development, that would help me in both server side programming in game development and open new areas with app and web development </li>
 <li> I'm thinking about developing a game as a solo developer. I have a rough design but nothing in progress yet. </li>
-<li> Learning NeoVim. I beileve learning even only vim motions will enhance my programming speed. </li>
 </ul>
 
 ## How to reach me:
