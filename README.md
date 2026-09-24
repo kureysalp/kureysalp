@@ -40,6 +40,6 @@
 
 ## How to reach me:
 
-📧 <a href="kureysalp@gmail.com">kureysalp@gmail.com</a></br></br>
-<a href="https://www.linkedin.com/in/kureysalp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="24" height="24"></a>
-<a href="https://x.com/kureysalp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X Logo" width="24" height="24"></a>
+📧 <a href="kureysalp@gmail.com" target="_blank" rel="noopener noreferrer">kureysalp@gmail.com</a></br></br>
+<a href="https://www.linkedin.com/in/kureysalp/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="24" height="24"></a>
+<a href="https://x.com/kureysalp" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X Logo" width="24" height="24"></a>
