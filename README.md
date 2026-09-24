@@ -40,4 +40,6 @@
 
 ## How to reach me:
 
-You can connect me on [Linkedin](https://www.linkedin.com/in/kureysalp/)</br>
+📧 <a href="kureysalp@gmail.com">kureysalp@gmail.com</a></br></br>
+<a href="https://www.linkedin.com/in/kureysalp/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="24" height="24"></a>
+<a href="https://x.com/kureysalp"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X Logo" width="24" height="24"></a>
