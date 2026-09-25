@@ -15,6 +15,7 @@
 
 ### ⬡ Unity
 
+[Unity Dev Console](https://github.com/kureysalp/Unity-Dev-Console) </br>
 [Unity Utilities](https://github.com/kureysalp/Unity-Utility) </br>
 [Unity Generic Event Bus](https://github.com/kureysalp/Unity-Event-Bus) </br>
 [Cinemachine Axis Follow Lock](https://github.com/kureysalp/Lock-Cinemachine-Follow) </br>
